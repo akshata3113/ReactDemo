@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #  Background Color Changer (React + TailwindCSS)
 
 This is a simple yet interactive React.js project that allows users to change the background color of the page using buttons. It demonstrates the use of React's `useState` hook for state management and TailwindCSS for fast and responsive UI styling.
@@ -38,3 +39,30 @@ This is a simple yet interactive React.js project that allows users to change th
 ---
 
 ##  Installation & Running the App
+=======
+<<<<<<< HEAD
+=======
+# React Counter App
+
+This is a simple React project to demonstrate useState and button events.
+<<<<<<< HEAD
+>>>>>>> 6b91229afaf2324cc6f468edfbb0b7e662012075
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Expanding the ESLint configuration
+
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<<<<<<< HEAD
+=======
+=======
+# ReactDemo
+>>>>>>> 77eeb079d9dc59de9892d697ba736dca1383bd30
+>>>>>>> 6b91229afaf2324cc6f468edfbb0b7e662012075
+>>>>>>> 3a3befa1339cceb13d489656922aa57a6d436399
