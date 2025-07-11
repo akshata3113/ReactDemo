@@ -1,5 +1,17 @@
 {
+<<<<<<< HEAD
   "name": "05passwordgenerator",
+=======
+<<<<<<< HEAD
+  "name": "04bgchanger",
+=======
+<<<<<<< HEAD
+  "name": "03tailwindprops",
+=======
+  "name": "02counter",
+>>>>>>> 6b91229afaf2324cc6f468edfbb0b7e662012075
+>>>>>>> 3a3befa1339cceb13d489656922aa57a6d436399
+>>>>>>> 4d84efdada56ef37d75d2b7f6adefef2b25643db
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,20 +22,59 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 4d84efdada56ef37d75d2b7f6adefef2b25643db
     "@tailwindcss/vite": "^4.1.11",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "tailwindcss": "^4.1.11"
+<<<<<<< HEAD
+=======
+=======
+<<<<<<< HEAD
+    "@tailwindcss/vite": "^4.1.11",
+=======
+>>>>>>> 6b91229afaf2324cc6f468edfbb0b7e662012075
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+>>>>>>> 3a3befa1339cceb13d489656922aa57a6d436399
+>>>>>>> 4d84efdada56ef37d75d2b7f6adefef2b25643db
   },
   "devDependencies": {
     "@eslint/js": "^9.30.1",
     "@types/react": "^19.1.8",
     "@types/react-dom": "^19.1.6",
     "@vitejs/plugin-react": "^4.6.0",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    "autoprefixer": "^10.4.21",
+=======
+>>>>>>> 6b91229afaf2324cc6f468edfbb0b7e662012075
+>>>>>>> 3a3befa1339cceb13d489656922aa57a6d436399
+>>>>>>> 4d84efdada56ef37d75d2b7f6adefef2b25643db
     "eslint": "^9.30.1",
     "eslint-plugin-react-hooks": "^5.2.0",
     "eslint-plugin-react-refresh": "^0.4.20",
     "globals": "^16.3.0",
+<<<<<<< HEAD
     "vite": "^7.0.4"
+=======
+<<<<<<< HEAD
+    "vite": "^7.0.4"
+=======
+<<<<<<< HEAD
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.11",
+    "vite": "^7.0.4"
+=======
+    "vite": "^7.0.3"
+>>>>>>> 6b91229afaf2324cc6f468edfbb0b7e662012075
+>>>>>>> 3a3befa1339cceb13d489656922aa57a6d436399
+>>>>>>> 4d84efdada56ef37d75d2b7f6adefef2b25643db
   }
 }
